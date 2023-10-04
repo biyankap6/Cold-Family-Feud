@@ -25,7 +25,8 @@ i18n
     react: {
       useSuspense: false,
     },
-    fallbackLng: "en",
+    fallbackLng: "id",
+    lng: "id",
     interpolation: {
       format,
     },
